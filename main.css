@@ -1,0 +1,16 @@
+.Titulo{
+    text-align: center;
+}
+.Subtitulo{
+    text-align: center;
+}
+.Parrafo{
+    text-align: center;
+}   
+body{
+    background-color: #f7f7b4;
+}
+ table{
+    margin-left: auto;
+    margin-right: auto;
+}
