@@ -7,10 +7,35 @@
 .Parrafo{
     text-align: center;
 }   
-body{
-    background-color: #f7f7b4;
-}
- table{
-    margin-left: auto;
-    margin-right: auto;
+ body{
+    background-color:rgb(255, 247, 175)
+ }
+
+ .columnsA{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 175, 175);
+    gap: 720px;
+     
+ }
+
+ 
+ 
+ 
+ .Liquid_Blush{
+    width: 100px;
+    height: auto;
+
+ }
+ .column_1A{
+    margin:10px;
+    
+ }
+ .column_2A{
+    margin:10px;
+     }
+     
+     .Glossy_Lip_Stain{
+        width: 100px;
+    height: auto;
 }
