@@ -8,34 +8,89 @@
     text-align: center;
 }   
  body{
-    background-color:rgb(255, 247, 175)
+    background-color:#8F9AB8;
  }
 
- .columnsA{
-    display: flex;
-    justify-content: center;
-    background-color: rgb(255, 175, 175);
-    gap: 720px;
-     
- }
-
- 
- 
- 
  .Liquid_Blush{
-    width: 100px;
+    width: 200px;
     height: auto;
-
  }
- .column_1A{
-    margin:10px;
+ .Glossy_Lip_Stain{
+    width: 200px;
+    height: auto;
+ }
+ .Loreal_pump_ambition{
+    width: 200px;
+    height: auto;
+ }
+ table{
+    background-color: #CED4DD;
+     border: 3px solid #EFBB4B;
+     border-radius: 10px;
+     
+    
+    
+  
+ }
+ tr, td{
+    text-align: center;
+    padding: 12px 16px;
+    vertical-align: middle;
+    
+    border-right: 1px solid      #EFBB4B;
+   
+    
     
  }
- .column_2A{
-    margin:10px;
-     }
-     
-     .Glossy_Lip_Stain{
-        width: 100px;
+ 
+ .column_1A, .column_2A, .column_3A{
+    width: 900px;
+ }
+.Huda_Beauty{
+    width: 200px;
     height: auto;
 }
+.Rare_Beauty{
+    width: 200px;
+    height: auto;
+}
+.Clinique_Black_Honey{
+    width: 200px;
+    height: auto;
+}
+.Kiko{
+    width: 200px;
+    height: auto;
+}
+.L_Oréal{
+    width: 200px;
+    height: auto;
+}
+.Rhode{
+    width: 200px;
+    height: auto;
+
+}
+.Erborian_CC{
+    width: 200px;
+    height: auto;
+}
+.Catrice_Perfilador{
+    width: 200px;
+    height: auto;
+}
+.Charlotte_Tilbury{
+    width: 200px;
+    height: auto;
+    
+   
+}
+.n_1{
+  
+    border-right: 1px solid      #EFBB4B;
+    border-bottom: 1px solid      #EFBB4B;
+
+}
+
+  
+   
