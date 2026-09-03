@@ -7,9 +7,10 @@
 .Parrafo{
     text-align: center;
 }   
- body{
-    background-color:#ffe5da;
+ html, body{
+    background-color: #d47c56;
     margin: 0;
+    padding: 0;
  }
 
  .Liquid_Blush{
@@ -27,7 +28,7 @@
  table{
     background-color: #E6ADC7;
      border: 3px solid #E6ADC7;
-     border-radius: 10px;
+     /*border-radius: 10px;*/
      
     
     
@@ -129,11 +130,15 @@
     align-items: center;
      max-width: 100%;
     height: auto;
-    margin-top: 100px;
+    margin-top: 800px;
     flex-direction: column;
     object-fit: cover;
-    background-color: #ff5309;
+    background-color: #ffe8ac;
     position: relative;
+    margin-bottom: 150px;
+    padding: 20px;
+    
+
    }
    
    .texto-container{
@@ -142,4 +147,13 @@
     transform: translateY(-50%);
     background-color: rgba(255, 255, 255, 0.7);
    }
+.carousel slide{
+    margin-bottom: 0;
+    background-color: inherit;
+}
    
+   
+  
+    
+  
+  
